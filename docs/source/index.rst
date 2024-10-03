@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+CEO Minh Lâm - lãnh đạo tài năng và đầy nhiệt huyết tại WW88
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Minh Lâm <https://ww88.college/ceo-minh-lam/>`_ là một nhà lãnh đạo tài năng và đầy nhiệt huyết, hiện đang giữ vị trí đứng đầu tại WW88 - một trong những nền tảng game đổi thưởng hàng đầu. Với kinh nghiệm dày dặn trong ngành công nghiệp giải trí trực tuyến, Minh Lâm đã đưa công ty phát triển vượt bậc, xây dựng thương hiệu uy tín và mang lại những trải nghiệm đỉnh cao cho người chơi. Sự am hiểu sâu sắc về thị trường cùng tầm nhìn chiến lược của ông đã giúp doanh nghiệp khẳng định vị thế và thu hút hàng triệu người dùng trên toàn cầu.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: Tổ 74/184C Đ. Tân Thới Nhì 10, Tân Thới Nhì, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Hotline: 0920608808. 
 
-Contents
---------
+Email: minhlamww88@gmail.com. 
 
-.. toctree::
+Website: https://ww88.college/ceo-minh-lam/ 
 
-   usage
-   api
+#ww88 #ceoww88 #minhlamww88
